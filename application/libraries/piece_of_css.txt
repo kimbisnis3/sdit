@@ -1,0 +1,42 @@
+<link rel='https://api.w.org/' href='http://sditnurhidayah.sch.id/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://sditnurhidayah.sch.id/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://sditnurhidayah.sch.id/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.4.15" />
+<link rel="canonical" href="http://sditnurhidayah.sch.id/" />
+<link rel='shortlink' href='http://sditnurhidayah.sch.id/' />
+
+google translate hide translate block css
+<meta property="fb:app_id" content=""/><style type="text/css">#google_language_translator { width:auto !important; }.goog-tooltip {display: none !important;}.goog-tooltip:hover {display: none !important;}.goog-text-highlight {background-color: transparent !important; border: none !important; box-shadow: none !important;}#google_language_translator { display:none; }#flags { display:none; }#google_language_translator {color: transparent;}body { top:0px !important; }</style><link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="alternate" type="application/rss+xml" title="SDIT Nur Hidayah RSS2 Feed" href="http://sditnurhidayah.sch.id/feed/" />
+<link rel="pingback" href="http://sditnurhidayah.sch.id/xmlrpc.php" />
+
+<script type='text/javascript' src='<?php echo base_url('assets/js/'); ?>scripts.js'></script>
+<script type='text/javascript' src='//translate.google.com/translate_a/element.js?cb=GoogleLanguageTranslatorInit'></script>
+<script type='text/javascript' src='<?php echo base_url('assets/js/'); ?>avia.js'></script>
+<script type='text/javascript' src='<?php echo base_url('assets/js/'); ?>shortcodes.js'></script>
+<script type='text/javascript' src='<?php echo base_url('assets/js/'); ?>jquery.magnific-popup.min.js'></script>
+
+<div class="flex_column av_one_fifth first  avia-builder-el-21  el_after_av_hr  el_before_av_one_fifth  "><article class="iconbox iconbox_top main_color   avia-builder-el-22  avia-builder-el-no-sibling "  itemscope="itemscope" itemtype="https://schema.org/CreativeWork" ><div class="iconbox_content"><header class="entry-content-header"><div class="iconbox_icon heading-color" aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello'  ></div><h3 class='iconbox_content_title'  itemprop="headline"  >MASJID</h3></header><div class='iconbox_content_container '  itemprop="text"  ></div></div><footer class="entry-footer"></footer></article>
+</div>
+
+<div class="flex_column av_one_fifth   avia-builder-el-25  el_after_av_one_fifth  el_before_av_one_fifth  "><article class="iconbox iconbox_top main_color   avia-builder-el-26  avia-builder-el-no-sibling "  itemscope="itemscope" itemtype="https://schema.org/CreativeWork" ><div class="iconbox_content"><header class="entry-content-header"><div class="iconbox_icon heading-color" aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello'  ></div><h3 class='iconbox_content_title'  itemprop="headline"  >LAB SAINS</h3></header><div class='iconbox_content_container '  itemprop="text"  ></div></div><footer class="entry-footer"></footer></article></div>
+	
+<div class="flex_column av_one_fifth   avia-builder-el-27  el_after_av_one_fifth  el_before_av_one_fifth  "><article class="iconbox iconbox_top main_color   avia-builder-el-28  avia-builder-el-no-sibling "  itemscope="itemscope" itemtype="https://schema.org/CreativeWork" ><div class="iconbox_content"><header class="entry-content-header"><div class="iconbox_icon heading-color" aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello'  ></div><h3 class='iconbox_content_title'  itemprop="headline"  >LAB KOMPUTER</h3></header><div class='iconbox_content_container '  itemprop="text"  ></div></div><footer class="entry-footer"></footer></article>
+</div>
+	
+<div class="flex_column av_one_fifth   avia-builder-el-29  el_after_av_one_fifth  el_before_av_one_fifth  "><article class="iconbox iconbox_top main_color   avia-builder-el-30  avia-builder-el-no-sibling "  itemscope="itemscope" itemtype="https://schema.org/CreativeWork" ><div class="iconbox_content"><header class="entry-content-header"><div class="iconbox_icon heading-color" aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello'  ></div><h3 class='iconbox_content_title'  itemprop="headline"  >WIFI</h3></header><div class='iconbox_content_container '  itemprop="text"  ></div></div><footer class="entry-footer"></footer></article>
+</div>
+
+<div class="flex_column av_one_fifth first  avia-builder-el-31  el_after_av_one_fifth  el_before_av_one_fifth  column-top-margin"><article class="iconbox iconbox_top main_color   avia-builder-el-32  avia-builder-el-no-sibling "  itemscope="itemscope" itemtype="https://schema.org/CreativeWork" ><div class="iconbox_content"><header class="entry-content-header"><div class="iconbox_icon heading-color" aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello'  ></div><h3 class='iconbox_content_title'  itemprop="headline"  >PERPUSTAKAAN</h3></header><div class='iconbox_content_container '  itemprop="text"  ></div></div><footer class="entry-footer"></footer></article>
+</div>
+
+<div class="flex_column av_one_fifth   avia-builder-el-33  el_after_av_one_fifth  el_before_av_one_fifth  column-top-margin"><article class="iconbox iconbox_top main_color   avia-builder-el-34  avia-builder-el-no-sibling "  itemscope="itemscope" itemtype="https://schema.org/CreativeWork" ><div class="iconbox_content"><header class="entry-content-header"><div class="iconbox_icon heading-color" aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello'  ></div><h3 class='iconbox_content_title'  itemprop="headline"  >AUDITORIUM</h3></header><div class='iconbox_content_container '  itemprop="text"  ></div></div><footer class="entry-footer"></footer></article>
+</div>
+
+<div class="flex_column av_one_fifth   avia-builder-el-35  el_after_av_one_fifth  el_before_av_one_fifth  column-top-margin"><article class="iconbox iconbox_top main_color   avia-builder-el-36  avia-builder-el-no-sibling "  itemscope="itemscope" itemtype="https://schema.org/CreativeWork" ><div class="iconbox_content"><header class="entry-content-header"><div class="iconbox_icon heading-color" aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello'  ></div><h3 class='iconbox_content_title'  itemprop="headline"  >KLINIK</h3></header><div class='iconbox_content_container '  itemprop="text"  ></div></div><footer class="entry-footer"></footer></article>
+</div>
+
+<div class="flex_column av_one_fifth   avia-builder-el-37  el_after_av_one_fifth  el_before_av_one_fifth  column-top-margin"><article class="iconbox iconbox_top main_color   avia-builder-el-38  avia-builder-el-no-sibling "  itemscope="itemscope" itemtype="https://schema.org/CreativeWork" ><div class="iconbox_content"><header class="entry-content-header"><div class="iconbox_icon heading-color" aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello'  ></div><h3 class='iconbox_content_title'  itemprop="headline"  >LOKER</h3></header><div class='iconbox_content_container '  itemprop="text"  ></div></div><footer class="entry-footer"></footer></article>
+</div>
+
+<div class="flex_column av_one_fifth   avia-builder-el-39  el_after_av_one_fifth  avia-builder-el-last  column-top-margin"><article class="iconbox iconbox_top main_color   avia-builder-el-40  avia-builder-el-no-sibling "  itemscope="itemscope" itemtype="https://schema.org/CreativeWork" ><div class="iconbox_content"><header class="entry-content-header"><div class="iconbox_icon heading-color" aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello'  ></div><h3 class='iconbox_content_title'  itemprop="headline"  >MULTIMEDIA</h3></header><div class='iconbox_content_container '  itemprop="text"  ></div></div><footer class="entry-footer"></footer></article></div>
